@@ -1,0 +1,11 @@
+{
+  "name": "loadstrike-sdk-sample-reference-js",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@loadstrike/loadstrike-sdk": "1.0.17501",
+    "playwright": "1.59.1",
+    "selenium-webdriver": "4.42.0"
+  }
+}

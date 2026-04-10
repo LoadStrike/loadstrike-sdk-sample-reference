@@ -1,0 +1,17 @@
+{
+  "name": "loadstrike-sdk-sample-reference-ts",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@loadstrike/loadstrike-sdk": "1.0.17501",
+    "playwright": "1.59.1",
+    "selenium-webdriver": "4.42.0"
+  },
+  "devDependencies": {
+    "typescript": "6.0.2"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  }
+}

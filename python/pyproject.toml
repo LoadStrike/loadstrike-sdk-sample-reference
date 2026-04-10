@@ -1,0 +1,11 @@
+[project]
+name = "loadstrike-sdk-sample-reference"
+version = "1.0.0"
+description = "Source-first LoadStrike Python sample reference"
+requires-python = ">=3.9"
+dependencies = [
+  "LoadStrike==1.0.17501",
+  "playwright==1.58.0",
+  "selenium==4.42.0",
+  "requests==2.33.1"
+]

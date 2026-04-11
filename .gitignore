@@ -19,4 +19,11 @@ artifacts/
 **/*.egg-info/
 **/playwright-report/
 **/test-results/
-
+ts/README.md
+python/README.md
+js/README.md
+java/README.md
+PARITY_MATRIX.md
+DOCUMENTATION_BACKLOG.md
+dotnet/README.md
+README.md

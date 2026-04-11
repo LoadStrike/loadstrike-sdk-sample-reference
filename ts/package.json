@@ -6,7 +6,8 @@
   "dependencies": {
     "@loadstrike/loadstrike-sdk": "1.0.17501",
     "playwright": "1.59.1",
-    "selenium-webdriver": "4.42.0"
+    "selenium-webdriver": "4.42.0",
+    "undici": "^8.0.2"
   },
   "devDependencies": {
     "typescript": "6.0.2"

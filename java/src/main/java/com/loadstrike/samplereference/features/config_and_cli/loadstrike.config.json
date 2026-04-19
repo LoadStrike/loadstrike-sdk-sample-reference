@@ -1,6 +1,0 @@
-{
-  "TestSuite": "sdk-sample-reference",
-  "TestName": "orders-config-driven",
-  "RunnerKey": "runner_dummy_orders_reference",
-  "ReportFolder": "./artifacts/reports"
-}
